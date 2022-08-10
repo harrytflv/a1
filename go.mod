@@ -1,4 +1,4 @@
-module a1
+module github.com/harrytflv/a1
 
 go 1.19
 
